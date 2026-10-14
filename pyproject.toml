@@ -8,6 +8,10 @@ dependencies = [
     "ipykernel>=7.4.0",
     "matplotlib>=3.11.2",
     "numpy<2",
+    "scikit-learn>=1.9.1",
     "torch==2.2.2",
     "torcheval>=0.0.7",
+    "torchmetrics>=1.9.0",
+    "torchvision==0.17.2",
+    "torchviz>=0.0.3",
 ]

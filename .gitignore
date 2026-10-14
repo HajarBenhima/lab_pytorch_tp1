@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Données et modèles générés par les notebooks
+data/
+*.pt
+*.pth
+graphe_operations
+graphe_operations.png
